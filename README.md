@@ -6,7 +6,8 @@ Submitted by: Samantha Bastien
 
 Time spent: 7 hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: (https://acidic-harmless-hygienic.glitch.me/)
+https://glitch.com/edit/#!/acidic-harmless-hygienic?path=script.js%3A1%3A0 
 
 ## Required Functionality
 
