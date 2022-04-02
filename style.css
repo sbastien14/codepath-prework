@@ -194,7 +194,7 @@ button {
   background:firebrick;
 }
 #button4:active, #button4.lit{
-  background:mediumorchid;
+  background:blueviolet;
 }
 /* Subheading */
 h2 {
